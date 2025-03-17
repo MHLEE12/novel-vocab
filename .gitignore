@@ -365,4 +365,4 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,java,intellij+all,intellij+iml,intellij,gradle,dbeaver
+# End of https://www.toptal.com/developers/gitignore/api/macos,java,intellij+all,intellij+iml,intellij,gradle,dbeaver!.gitignore
